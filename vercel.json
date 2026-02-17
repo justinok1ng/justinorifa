@@ -1,0 +1,5 @@
+{
+  "routes": [
+    { "src": "/", "dest": "/campanha/index2.html" }
+  ]
+}
