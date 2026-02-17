@@ -1,5 +1,5 @@
 {
-  "routes": [
-    { "src": "/", "dest": "/campanha/index2.html" }
+  "rewrites": [
+    { "source": "/", "destination": "/campanha/index2.html" }
   ]
 }
